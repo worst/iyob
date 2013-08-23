@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Iyob::VERSION
   spec.authors       = ["Jeremy Blackburn"]
   spec.email         = ["jeremy.blackburn@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{A client for the SMITE API}
+  spec.summary       = %q{A client for the SMITE API}
+  spec.homepage      = "http://github.com/worst/iyob"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
